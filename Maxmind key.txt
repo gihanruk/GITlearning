@@ -1,5 +1,0 @@
-MaxMind
-Account/User ID
-437271
-License key
-tDKeclJrpMYfrPAF 
