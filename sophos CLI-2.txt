@@ -1,0 +1,4 @@
+conntrack -E -s <source ip> 
+conntrack -E -d <destination ip>
+tcpdump -s0 -ni any host <src ip> and host <dest ip>
+tcpdump -s0 -ni any host <src ip> and icmp

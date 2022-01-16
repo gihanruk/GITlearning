@@ -1,0 +1,10 @@
+Delete Windows Defender Service folder from the local drive
+To manually clear the protection history, this method requires you to delete the Service folder under the Windows Defender folder on the local drive.
+
+Here’s how:
+
+Press Windows key + R to invoke the Run dialog.
+In the Run dialog, copy and paste the path below and hit Enter (if prompted, click Continue).
+C:\ProgramData\Microsoft\Windows Defender\Scans\History
+Now, right-click the Service folder in that location and select Delete.
+You can exit File Explorer.

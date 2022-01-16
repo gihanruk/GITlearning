@@ -1,0 +1,19 @@
+
+
+Main requirement . 
+on teams - Able to save video but not have access to one drive or sharepoint for staff to save documents without control
+and administration
+
+
+
+
+if cant then:
+No one drive
+ A. no access to one drive app
+ B. not to save to one drive from office apps 
+
+No sharepoint
+ A. NO sharepoint web based access
+ B. no saving to sharepoint
+
+No Teams - 
